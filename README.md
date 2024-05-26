@@ -8,7 +8,7 @@ Faker Python script (generates fake/streaming data) hosted on EC2 Linux instance
 
 ### Services Used
 
-1.  **AWS EC2, S3**
+1.  **AWS: EC2, S3**
 3.  **Docker**
 4.  **Apache NiFi**
-5.  **Snowflake Snowpipe, Stream, Task**
+5.  **Snowflake: Snowpipe, Stream, Task**
