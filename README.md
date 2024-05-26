@@ -1,6 +1,6 @@
 # streamingData-to-snowflake
 
-Faker Python script (generates fake/streaming data) hosted on EC2 Linux instance > Apache Nifi > AWS S3 > Snowflake [Snowpipe] 
+Faker Python script (generates fake/streaming data) hosted on EC2 Linux instance > Apache Nifi on Docker > AWS S3 > Snowflake [Snowpipe] 
 
 ### Architecture Diagram
 
